@@ -1,0 +1,76 @@
+{
+    "Users": [
+        {
+            "user": "Administrator",
+            "password": "Password01",
+            "pokemons": [
+                {
+                    "Id" : "2",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "18",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "30",
+                    "Exp": ""
+                }
+            ]
+        },
+        {
+            "user": "Manager",
+            "password": "Password",
+            "pokemon": [
+                {
+                    "Id" : "6",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "15",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "34",
+                    "Exp": ""
+                }
+            ]
+        },
+        {
+            "user": "Cleric",
+            "password": "Admin",
+            "pokemon": [
+                {
+                    "Id" : "8",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "22",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "38",
+                    "Exp": ""
+                }
+            ]
+        },
+        {
+            "user": "Scribe",
+            "password": "ssword",
+            "pokemon": [
+                {
+                    "Id" : "12",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "25",
+                    "Exp": ""
+                },
+                {
+                    "Id" : "40",
+                    "Exp": ""
+                }
+            ]
+        }
+    ]
+}
